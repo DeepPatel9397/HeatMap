@@ -1,0 +1,14 @@
+{
+  "name": "heatmap",
+  "version": "1.0.0",
+  "description": "HeatMap",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Deep Patel"
+  
+}
